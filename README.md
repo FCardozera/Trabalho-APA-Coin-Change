@@ -10,7 +10,7 @@ O problema recebe como parâmetros o valor do troco, a quantidade de tipos de mo
 Certifique-se de ter o Java 11 instalado em sua máquina.
 
 Clone este repositório:
-git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/FCardozera/Trabalho-APA-Coin-Change.git)
+git clone https://github.com/FCardozera/Trabalho-APA-Coin-Change.git
 ## 💡 Como usar
 
 Para usar o código, você precisará ter o Java 11 instalado em sua máquina.
